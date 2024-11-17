@@ -29,7 +29,7 @@ spring:
     refresh:
       enabled: false
 
-encrypt:
-  key: 11BBXMJ3Y0sJjh4a7n60Kh_rrZhrhK1198EHbWEjLDsGKxm0RqSZFlTgdoqFBFfKfDKRXEC7POV3rcpYP1
+#encrypt:
+#  key: 11BBXMJ3Y0sJjh4a7n60Kh_rrZhrhK1198EHbWEjLDsGKxm0RqSZFlTgdoqFBFfKfDKRXEC7POV3rcpYP1
 server:
   port: 8071
