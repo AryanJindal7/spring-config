@@ -18,8 +18,7 @@ spring:
           timeout: 5
           clone-on-start: true
           force-pull: true
-          username: AryanJindal7  # GitHub username
-          password: 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
+
 
 
 
